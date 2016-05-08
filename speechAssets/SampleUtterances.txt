@@ -1,0 +1,18 @@
+EditPageAlignmentIntent {alignment} everything
+EditPageAlignmentIntent {alignment} everything on the page
+EditPageAlignmentIntent {alignment} align everything
+EditPageAlignmentIntent {alignment} align everything on the page
+EditPageAlignmentIntent push everything on the page to the {alignment}
+
+EditPageBorderIntent add a ten pixel border
+EditPageBorderIntent add a ten pixel border to the page
+EditPageBorderIntent add a medium sized border
+EditPageBorderIntent add a medium sized border to the page
+
+EditIconSizeIntent make the icons larger
+EditIconSizeIntent increase the icon size
+
+EditBackgroundImageIntent add a background image related to carpentry
+EditBackgroundImageIntent add an image related to carpentry
+EditBackgroundImageIntent get a different image
+EditBackgroundImageIntent use a different image

@@ -1,0 +1,17 @@
+{
+  "intents": [{
+    "intent": "EditPageAlignmentIntent",
+    "slots": [{
+      "name": "alignment",
+      "type": "ALIGNMENT_TYPE"
+    }]
+  }, {
+    "intent": "EditPageBorderIntent"
+  }, {
+    "intent": "EditIconSizeIntent"
+  }, {
+    "intent": "EditBackgroundImageIntent"
+  }, {
+    "intent": "AMAZON.HelpIntent"
+  }]
+}
